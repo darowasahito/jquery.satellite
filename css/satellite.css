@@ -1,0 +1,26 @@
+.satellite-item {
+	position: absolute;
+
+	display: block;
+}
+
+.satellite-center {
+	position: absolute;
+	z-index: 0;
+
+	width: 2px;
+	height: 2px;
+	margin-top: -1px;
+	margin-left: -1px;
+
+	border-radius: 2px;
+	background: #ddd;
+}
+
+.satellite-locus {
+	position: absolute;
+	z-index: 0;
+
+	border: 1px dashed rgba(200,200,200,0.5);
+	border-radius: 50%;
+}
