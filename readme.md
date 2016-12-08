@@ -5,7 +5,7 @@ SATELLITE 1.0
 
 ## DEMO / デモ
 
-準備中
+[Demo Page](http://manx.hawshi-hiccoroton.com/jquery.satellite/)
 
 ## USAGE / 使い方
 
@@ -47,7 +47,7 @@ JavaScript
 1周の時間
 
     default: 3000
-		options: 時間(ms)
+    options: 時間(ms)
 
 **clockwise**: *boolean*  
 回転方向（時計回りか否か）  
@@ -92,5 +92,4 @@ MIT
 
 ## AUTHOR
 
-[Hiroto Sawada](https://github.com/darowasahito)  
-[Hawshi Hiccoroton LLC.](http://hawshi-hiccoroton.com)
+[Hiroto Sawada](https://github.com/darowasahito) ([Hawshi Hiccoroton LLC.](http://hawshi-hiccoroton.com))
